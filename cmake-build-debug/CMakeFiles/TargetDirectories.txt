@@ -1,0 +1,3 @@
+C:/Users/diazm/CLionProjects/Tareadeldomingo1/cmake-build-debug/CMakeFiles/Tareadeldomingo1.dir
+C:/Users/diazm/CLionProjects/Tareadeldomingo1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diazm/CLionProjects/Tareadeldomingo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
